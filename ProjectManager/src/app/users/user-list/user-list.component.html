@@ -1,0 +1,43 @@
+﻿<div class="row">
+  <div class="col-md-3">
+    <input class="form-control" name="searchText" [(ngModel)]="searchText" placeholder="Search..."  />
+  </div>
+  <div class="col-md-1 padding-0 text-right">
+    Sort:
+  </div>
+  <div class="col-md-2">
+    <button type="button" class="btn btn-sm btn-block btn-secondary" (click)="SortUser('First_Name')">First Name</button>
+  </div>
+  <div class="col-md-2">
+    <button type="button" class="btn btn-sm btn-block btn-secondary" (click)="SortUser('Last_Name')">Last Name</button>
+  </div>
+  <div class="col-md-1">
+    <button type="button" class="btn btn-sm btn-block btn-secondary" (click)="SortUser('Employee_ID')">Id</button>
+  </div>
+</div>
+<div class="row top-buffer" *ngFor="let user of userService.UserList | filter : searchText | orderBy: {property: column, direction: direction}">
+  <div class="col-md-7">
+    <ul class="list-group">
+      <li class="list-group-item">
+        {{user.First_Name}}
+      </li>
+      <li class="list-group-item">
+        {{user.Last_Name}}
+      </li>
+      <li class="list-group-item">
+        {{user.Employee_ID}}
+      </li>
+    </ul>
+  </div>
+  <div class="col-md-2">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <button type="button" class="btn btn-lg btn-block btn-secondary" (click)="showForEdit(user)">Edit</button>
+      </li>
+      <li class="list-group-item">
+        <button type="button" class="btn btn-lg btn-block btn-secondary" (click)="onDelete(user.User_ID)">Delete</button>
+      </li>
+    </ul>
+  </div>
+</div>
+

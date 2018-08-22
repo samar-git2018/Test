@@ -1,0 +1,9 @@
+C:\Users\Admin\ProjectManager\ProjectManager\bin\Debug\netcoreapp1.1\ProjectManager.deps.json
+C:\Users\Admin\ProjectManager\ProjectManager\bin\Debug\netcoreapp1.1\ProjectManager.runtimeconfig.json
+C:\Users\Admin\ProjectManager\ProjectManager\bin\Debug\netcoreapp1.1\ProjectManager.runtimeconfig.dev.json
+C:\Users\Admin\ProjectManager\ProjectManager\bin\Debug\netcoreapp1.1\ProjectManager.dll
+C:\Users\Admin\ProjectManager\ProjectManager\bin\Debug\netcoreapp1.1\ProjectManager.pdb
+C:\Users\Admin\ProjectManager\ProjectManager\obj\Debug\netcoreapp1.1\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\ProjectManager\ProjectManager\obj\Debug\netcoreapp1.1\ProjectManager.AssemblyInfo.cs
+C:\Users\Admin\ProjectManager\ProjectManager\obj\Debug\netcoreapp1.1\ProjectManager.dll
+C:\Users\Admin\ProjectManager\ProjectManager\obj\Debug\netcoreapp1.1\ProjectManager.pdb

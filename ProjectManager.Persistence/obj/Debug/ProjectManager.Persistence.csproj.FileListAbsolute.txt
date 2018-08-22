@@ -1,0 +1,9 @@
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\obj\Debug\ProjectManager.Persistence.dll
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\ProjectManager.Persistence.dll.config
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\ProjectManager.Persistence.dll
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\ProjectManager.Persistence.pdb
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\ProjectManager\ProjectManager.Persistence\obj\Debug\ProjectManager.Persistence.pdb

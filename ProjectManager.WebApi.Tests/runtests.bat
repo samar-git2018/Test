@@ -1,0 +1,1 @@
+C:\Users\Admin\ProjectManager\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe ProjectManager.WebApi.Tests.dll
